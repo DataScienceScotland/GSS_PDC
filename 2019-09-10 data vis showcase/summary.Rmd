@@ -10,6 +10,7 @@ library(dplyr)
 library(tidyr)
 library(ggplot2)
 library(here)
+library(ggrepel)
 
 tools_raw <- read.csv(here("2019-09-10 data vis showcase", "feedback.csv"))
 
@@ -116,10 +117,11 @@ ggplot(data = change,
                arrow = arrow(length = unit(3, "mm"),
                              type = "closed"),
                size = 1) +
-  geom_text(mapping = aes(x = support_before,
+  geom_label_repel(mapping = aes(x = support_before,
                           y = motivation_before,
                           label = tool),
-            colour = "#4b4b4b") +
+            colour = "#4b4b4b",
+            size = 3) +
   geom_text(data = data.frame(x = c(-0.5, 1.25, 1.5, -0.5),
                               y = c(1.5, -0.75, 1.5, -0.75),
                               label = c("motivated \n not supported",
