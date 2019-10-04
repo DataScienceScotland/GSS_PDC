@@ -1,0 +1,217 @@
+Participant number,Tool,Before today I was aware of this tool,I can get adequate support using this (before),I can get adequate support using this (after),I want to present data with this in the next year (before),I want to present data with this in the next year (after)
+1,Adobe Illustrator,A,D,N,A,A
+1,Google Data Studio,D,D,N,D,D
+1,Inkscape,SA,A,A,A,N
+1,"JavaScript (e.g. D3, C3)",BLANK,BLANK,BLANK,BLANK,BLANK
+1,Microsoft Office,SA,A,SA,A,SA
+1,"R (e.g. ggplot2, shiny)",SA,A,A,A,SA
+1,SAS visual analytics,SA,A,A,D,D
+1,Tableau,SA,N,A,D,D
+2,Adobe Illustrator,A,BLANK,BLANK,D,D
+2,Google Data Studio,SD,BLANK,BLANK,D,D
+2,Inkscape,SA,BLANK,BLANK,SA,SA
+2,"JavaScript (e.g. D3, C3)",D,BLANK,BLANK,BLANK,BLANK
+2,Microsoft Office,SA,BLANK,BLANK,A,A
+2,"R (e.g. ggplot2, shiny)",A,BLANK,BLANK,A,SA
+2,SAS visual analytics,D,BLANK,BLANK,D,D
+2,Tableau,A,BLANK,BLANK,D,N
+3,Adobe Illustrator,D,D,D,BLANK,A
+3,Google Data Studio,D,D,D,BLANK,N
+3,Inkscape,A,D,D,BLANK,D
+3,"JavaScript (e.g. D3, C3)",D,D,D,BLANK,D
+3,Microsoft Office,SA,A,A,BLANK,SA
+3,"R (e.g. ggplot2, shiny)",SA,D,D,BLANK,D
+3,SAS visual analytics,D,D,D,BLANK,D
+3,Tableau,A,D,D,BLANK,D
+4,Adobe Illustrator,D,BLANK,BLANK,BLANK,BLANK
+4,Google Data Studio,D,BLANK,BLANK,BLANK,BLANK
+4,Inkscape,A,BLANK,BLANK,BLANK,BLANK
+4,"JavaScript (e.g. D3, C3)",A,BLANK,BLANK,A,A
+4,Microsoft Office,A,BLANK,A,BLANK,BLANK
+4,"R (e.g. ggplot2, shiny)",A,BLANK,A,A,A
+4,SAS visual analytics,D,BLANK,A,BLANK,BLANK
+4,Tableau,A,BLANK,A,BLANK,BLANK
+5,Adobe Illustrator,A,BLANK,BLANK,BLANK,BLANK
+5,Google Data Studio,A,BLANK,BLANK,BLANK,BLANK
+5,Inkscape,A,BLANK,BLANK,BLANK,BLANK
+5,"JavaScript (e.g. D3, C3)",A,BLANK,BLANK,BLANK,BLANK
+5,Microsoft Office,A,BLANK,BLANK,BLANK,BLANK
+5,"R (e.g. ggplot2, shiny)",A,BLANK,BLANK,BLANK,BLANK
+5,SAS visual analytics,A,BLANK,BLANK,BLANK,BLANK
+5,Tableau,A,BLANK,BLANK,BLANK,SA
+6,Adobe Illustrator,A,N,A,D,A
+6,Google Data Studio,D,N,A,N,N
+6,Inkscape,D,N,A,N,A
+6,"JavaScript (e.g. D3, C3)",SA,BLANK,BLANK,BLANK,BLANK
+6,Microsoft Office,SA,A,A,N,D
+6,"R (e.g. ggplot2, shiny)",SA,SA,SA,SA,SA
+6,SAS visual analytics,SA,SD,D,D,D
+6,Tableau,D,N,D,N,SA
+7,Adobe Illustrator,SA,D,D,D,D
+7,Google Data Studio,D,BLANK,BLANK,SD,A
+7,Inkscape,SA,D,D,D,D
+7,"JavaScript (e.g. D3, C3)",SA,A,A,D,D
+7,Microsoft Office,SA,A,A,A,D
+7,"R (e.g. ggplot2, shiny)",SA,A,A,A,A
+7,SAS visual analytics,D,A,A,D,D
+7,Tableau,SA,A,A,A,A
+8,Adobe Illustrator,A,A,A,D,D
+8,Google Data Studio,A,SA,SA,A,A
+8,Inkscape,A,SD,A,D,D
+8,"JavaScript (e.g. D3, C3)",A,A,A,A,A
+8,Microsoft Office,A,A,A,D,D
+8,"R (e.g. ggplot2, shiny)",A,A,SA,A,A
+8,SAS visual analytics,BLANK,D,A,D,A
+8,Tableau,A,D,A,D,A
+9,Adobe Illustrator,D,D,D,D,D
+9,Google Data Studio,A,D,D,D,A
+9,Inkscape,SA,SA,SA,SA,SA
+9,"JavaScript (e.g. D3, C3)",A,D,D,D,A
+9,Microsoft Office,SA,SA,SA,SA,SA
+9,"R (e.g. ggplot2, shiny)",SA,SA,SA,D,D
+9,SAS visual analytics,A,D,D,D,D
+9,Tableau,BLANK,BLANK,BLANK,BLANK,BLANK
+10,Adobe Illustrator,N,D,D,BLANK,BLANK
+10,Google Data Studio,SD,BLANK,A,N,A
+10,Inkscape,SA,A,A,BLANK,BLANK
+10,"JavaScript (e.g. D3, C3)",A,BLANK,BLANK,BLANK,BLANK
+10,Microsoft Office,SA,SA,SA,SA,SA
+10,"R (e.g. ggplot2, shiny)",A,SA,SA,BLANK,BLANK
+10,SAS visual analytics,SA,A,SA,N,A
+10,Tableau,A,A,SA,BLANK,BLANK
+11,Adobe Illustrator,SD,SD,A,SD,N
+11,Google Data Studio,SD,SD,A,SD,A
+11,Inkscape,SD,SD,A,SD,A
+11,"JavaScript (e.g. D3, C3)",SD,SD,N,SD,N
+11,Microsoft Office,SA,A,SA,SD,SA
+11,"R (e.g. ggplot2, shiny)",SA,N,A,SD,SA
+11,SAS visual analytics,A,N,A,SD,A
+11,Tableau,SD,N,N,SD,A
+12,Adobe Illustrator,A,BLANK,BLANK,BLANK,BLANK
+12,Google Data Studio,SD,BLANK,BLANK,BLANK,BLANK
+12,Inkscape,A,BLANK,BLANK,BLANK,BLANK
+12,"JavaScript (e.g. D3, C3)",A,BLANK,BLANK,BLANK,BLANK
+12,Microsoft Office,SA,BLANK,BLANK,BLANK,BLANK
+12,"R (e.g. ggplot2, shiny)",A,BLANK,BLANK,BLANK,BLANK
+12,SAS visual analytics,SD,BLANK,BLANK,BLANK,BLANK
+12,Tableau,D,BLANK,BLANK,BLANK,BLANK
+13,Adobe Illustrator,BLANK,BLANK,BLANK,BLANK,BLANK
+13,Google Data Studio,BLANK,BLANK,BLANK,BLANK,BLANK
+13,Inkscape,BLANK,BLANK,BLANK,BLANK,BLANK
+13,"JavaScript (e.g. D3, C3)",BLANK,BLANK,BLANK,BLANK,BLANK
+13,Microsoft Office,BLANK,BLANK,BLANK,BLANK,BLANK
+13,"R (e.g. ggplot2, shiny)",BLANK,BLANK,BLANK,BLANK,BLANK
+13,SAS visual analytics,BLANK,BLANK,BLANK,BLANK,BLANK
+13,Tableau,BLANK,BLANK,BLANK,BLANK,BLANK
+14,Adobe Illustrator,A,BLANK,BLANK,D,D
+14,Google Data Studio,D,BLANK,BLANK,D,N
+14,Inkscape,A,BLANK,BLANK,A,A
+14,"JavaScript (e.g. D3, C3)",A,BLANK,BLANK,D,D
+14,Microsoft Office,A,BLANK,BLANK,A,A
+14,"R (e.g. ggplot2, shiny)",A,BLANK,BLANK,A,A
+14,SAS visual analytics,A,BLANK,BLANK,D,A
+14,Tableau,A,BLANK,BLANK,D,D
+15,Adobe Illustrator,A,D,D,BLANK,BLANK
+15,Google Data Studio,D,D,D,BLANK,BLANK
+15,Inkscape,SA,SA,SA,A,SA
+15,"JavaScript (e.g. D3, C3)",D,D,D,BLANK,BLANK
+15,Microsoft Office,A,A,A,BLANK,BLANK
+15,"R (e.g. ggplot2, shiny)",SA,A,A,A,A
+15,SAS visual analytics,D,D,D,BLANK,BLANK
+15,Tableau,D,D,D,BLANK,BLANK
+16,Adobe Illustrator,SD,SD,BLANK,N,BLANK
+16,Google Data Studio,SD,SD,BLANK,N,BLANK
+16,Inkscape,SA,SA,BLANK,SA,BLANK
+16,"JavaScript (e.g. D3, C3)",N,SD,BLANK,A,BLANK
+16,Microsoft Office,A,SA,BLANK,SD,BLANK
+16,"R (e.g. ggplot2, shiny)",SA,SA,BLANK,SA,BLANK
+16,SAS visual analytics,D,D,BLANK,N,BLANK
+16,Tableau,A,A,BLANK,N,BLANK
+17,Adobe Illustrator,SA,SA,SA,N,N
+17,Google Data Studio,D,D,A,N,N
+17,Inkscape,SA,N,SA,N,A
+17,"JavaScript (e.g. D3, C3)",A,D,D,N,N
+17,Microsoft Office,SA,N,N,N,N
+17,"R (e.g. ggplot2, shiny)",SA,A,A,SA,SA
+17,SAS visual analytics,D,D,N,D,D
+17,Tableau,D,D,N,N,A
+18,Adobe Illustrator,SA,SA,BLANK,N,BLANK
+18,Google Data Studio,SA,SA,BLANK,SA,BLANK
+18,Inkscape,A,N,BLANK,N,BLANK
+18,"JavaScript (e.g. D3, C3)",SA,SA,SA,SA,SA
+18,Microsoft Office,SA,N,BLANK,SA,BLANK
+18,"R (e.g. ggplot2, shiny)",A,SA,SA,N,N
+18,SAS visual analytics,D,N,BLANK,N,BLANK
+18,Tableau,SA,N,BLANK,N,BLANK
+19,Adobe Illustrator,N,D,N,N,N
+19,Google Data Studio,D,D,N,N,A
+19,Inkscape,SA,SA,SA,SA,SA
+19,"JavaScript (e.g. D3, C3)",D,SD,D,D,N
+19,Microsoft Office,A,A,A,N,N
+19,"R (e.g. ggplot2, shiny)",SA,SA,SA,SA,SA
+19,SAS visual analytics,SD,N,N,N,N
+19,Tableau,A,D,D,D,D
+20,Adobe Illustrator,SD,D,D,D,D
+20,Google Data Studio,SD,D,D,D,D
+20,Inkscape,SD,D,A,D,A
+20,"JavaScript (e.g. D3, C3)",BLANK,BLANK,BLANK,BLANK,BLANK
+20,Microsoft Office,SA,A,A,D,D
+20,"R (e.g. ggplot2, shiny)",SA,A,A,D,A
+20,SAS visual analytics,D,N,N,N,N
+20,Tableau,SA,A,A,D,D
+21,Adobe Illustrator,A,N,N,N,A
+21,Google Data Studio,D,N,N,N,N
+21,Inkscape,D,N,A,N,A
+21,"JavaScript (e.g. D3, C3)",A,N,N,N,N
+21,Microsoft Office,SA,A,SA,A,SA
+21,"R (e.g. ggplot2, shiny)",SA,SA,SA,SA,SA
+21,SAS visual analytics,SA,SA,A,A,A
+21,Tableau,SA,N,N,N,SA
+22,Adobe Illustrator,D,BLANK,BLANK,D,SA
+22,Google Data Studio,D,BLANK,BLANK,D,A
+22,Inkscape,D,BLANK,BLANK,D,SA
+22,"JavaScript (e.g. D3, C3)",D,BLANK,BLANK,D,N
+22,Microsoft Office,SA,BLANK,BLANK,A,SA
+22,"R (e.g. ggplot2, shiny)",SA,BLANK,BLANK,N,SA
+22,SAS visual analytics,A,BLANK,BLANK,N,N
+22,Tableau,SA,BLANK,BLANK,N,SA
+23,Adobe Illustrator,D,BLANK,N,BLANK,N
+23,Google Data Studio,D,BLANK,D,BLANK,D
+23,Inkscape,A,BLANK,A,BLANK,N
+23,"JavaScript (e.g. D3, C3)",A,BLANK,BLANK,BLANK,BLANK
+23,Microsoft Office,A,BLANK,A,BLANK,A
+23,"R (e.g. ggplot2, shiny)",A,BLANK,A,BLANK,A
+23,SAS visual analytics,A,BLANK,N,BLANK,D
+23,Tableau,D,BLANK,N,BLANK,N
+24,Adobe Illustrator,A,N,BLANK,N,A
+24,Google Data Studio,D,N,BLANK,N,BLANK
+24,Inkscape,A,N,BLANK,N,A
+24,"JavaScript (e.g. D3, C3)",N,N,BLANK,N,BLANK
+24,Microsoft Office,SA,N,BLANK,N,BLANK
+24,"R (e.g. ggplot2, shiny)",N,N,BLANK,N,BLANK
+24,SAS visual analytics,N,N,BLANK,N,BLANK
+24,Tableau,A,N,BLANK,N,A
+25,Adobe Illustrator,D,N,N,A,A
+25,Google Data Studio,D,D,D,N,N
+25,Inkscape,A,A,A,SA,SA
+25,"JavaScript (e.g. D3, C3)",A,D,D,SA,SA
+25,Microsoft Office,SA,SA,SA,SA,SA
+25,"R (e.g. ggplot2, shiny)",SA,SA,SA,SA,SA
+25,SAS visual analytics,A,A,A,N,N
+25,Tableau,A,A,A,N,N
+26,Adobe Illustrator,D,D,A,BLANK,A
+26,Google Data Studio,D,D,D,BLANK,BLANK
+26,Inkscape,SA,A,A,BLANK,BLANK
+26,"JavaScript (e.g. D3, C3)",A,D,D,BLANK,BLANK
+26,Microsoft Office,SA,SA,SA,BLANK,A
+26,"R (e.g. ggplot2, shiny)",SA,A,A,BLANK,BLANK
+26,SAS visual analytics,D,D,D,BLANK,BLANK
+26,Tableau,A,D,A,BLANK,A
+27,Adobe Illustrator,A,SD,SD,N,N
+27,Google Data Studio,SD,SD,SD,N,N
+27,Inkscape,SA,A,SA,N,N
+27,"JavaScript (e.g. D3, C3)",N,N,N,N,N
+27,Microsoft Office,SA,SA,SA,A,SA
+27,"R (e.g. ggplot2, shiny)",A,N,A,N,A
+27,SAS visual analytics,SA,N,N,A,SA
+27,Tableau,SA,N,N,A,SA
